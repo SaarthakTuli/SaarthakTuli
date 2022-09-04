@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hey everyone, My name is 
-<span style="animation: slide 12s steps(4) infinite;" >Saarthak Tuli</span> 
+<span style="animation: typing 3s steps(10) infinite;" >Saarthak Tuli</span> 
 </h1>
 
 <h3 align="left">:technologist: About Me: </h3>
