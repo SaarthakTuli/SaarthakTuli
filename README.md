@@ -4,6 +4,8 @@
 
 <h1 align="center"> Hey everyone, My name is Saarthak Tuli </h1>
 
+<h3 align="left">:woman_technologist: About Me: </h3>
+
 - 🔭 I’m currently working on **Data Structures & Algorithms**
 
 - 🌱 I’m currently learning **MERN Stack** as well as **AWS**
@@ -25,7 +27,7 @@
 
 <!--Languages and Tools used by me:......-->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> :hammer_and_wrench: Languages and Tools:</h3>
 <p align="left">
 
 <!--Python, Java, Cpp, Swift, HTML, CSS, Bootstrap, JS, Figma, Canva, Git, Firebase, MySQL-->
