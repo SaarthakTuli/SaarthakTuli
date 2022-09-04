@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey everyone, My name is Saarthak Tuli </h1>
 
-<h3 align="left">:woman_technologist: About Me: </h3>
+<h3 align="left">:technologist: About Me: </h3>
 
 - 🔭 I’m currently working on **Data Structures & Algorithms**
 
@@ -17,7 +17,7 @@
 - 📫 How to reach me: **saarthaktuli@gmail.com**
 
 <!--Start of the test of how this will work...-->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:link: Connect with me:</h3>
 <p align="left">
 <!--Instagram and Linkdln-->
 <a href="https://www.instagram.com/saarthaktuli_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saarthaktuli_007" height="30" width="40" /></a>
