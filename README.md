@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Coding-gif" width="100"/>
+</div>
 <h1 align="center"> Hey everyone, My name is Saarthak Tuli </h1>
 
 - 🔭 I’m currently working on **Data Structures & Algorithms**
