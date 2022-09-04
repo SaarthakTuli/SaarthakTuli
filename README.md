@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center"> Hey everyone, My name is Saarthak Tuli </h1>
+<h1 align="center"> Hey everyone, My name is 
+<span>Saarthak Tuli</span> 
+</h1>
 
 <h3 align="left">:technologist: About Me: </h3>
 
