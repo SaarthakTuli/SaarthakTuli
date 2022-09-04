@@ -15,9 +15,7 @@
 <p align="left">
 
 <a href="https://twitter.com/akansha17289922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akansha17289922" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/akansha-aggarwal-991780204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akansha-aggarwal-991780204" height="30" width="40" /></a>
-
 <a href="https://instagram.com/_akansha_aggarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akansha_aggarwal_" height="30" width="40" /></a>
 
 <!--Linkdln Logo and link......-->
