@@ -40,6 +40,6 @@
 
 <!--End of the test of how this will work...-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaarthakTuli&" alt="SaarthakTuli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaarthakTuli&theme=dark&background=000000" alt="SaarthakTuli" /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=SaarthakTuli&show_icons=true&locale=en&layout=compact" alt="Saarthak Tuli" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=SaarthakTuli&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="Saarthak Tuli" /></p>
