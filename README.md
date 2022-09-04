@@ -14,17 +14,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<a href="https://linkedin.com/in/akansha-aggarwal-991780204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akansha-aggarwal-991780204" height="30" width="40" /></a>
+
+<a href="https://instagram.com/_akansha_aggarwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akansha_aggarwal_" height="30" width="40" /></a>
+
 <!--Linkdln Logo and link......-->
-<ul>
-<li style="display:inline;"><a href="https://www.linkedin.com/in/saarthak-tuli-5395aa1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saarthak-tuli-5395aa1ab" height="30" width="40" /></a></li>
+
+<!-- <a href="https://www.linkedin.com/in/saarthak-tuli-5395aa1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saarthak-tuli-5395aa1ab" height="30" width="40" /></a>
 
 <!--Instagram Logo and link......-->
-<li style="display:inline;">
-<a href="https://www.instagram.com/saarthaktuli_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saarthaktuli_007" height="30" width="40" /></a></li>
 
-</ul>
+<!-- <a href="https://www.instagram.com/saarthaktuli_007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saarthaktuli_007" height="30" width="40" /></a>
 
-</p>
+</p> -->
 
 <!--Languages and Tools used by me:......-->
 
