@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **IOS Development**
 
-- 💬 Ask me about **MERN Stackt**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me: **saarthaktuli@gmail.com**
 
