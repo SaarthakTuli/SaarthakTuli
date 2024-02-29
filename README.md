@@ -8,13 +8,11 @@
 
 <h3 align="left">:technologist: About Me: </h3>
 
-- 🔭 I’m currently working on **Data Structures & Algorithms**
+- 🔭 I’m currently working on **Machine Learning Models** in the Medical Field
 
-- 🌱 I’m currently learning **MERN Stack** as well as **AWS**
+- 🌱 I’m currently learning **IOS Development**
 
-- 💬 Ask me about **IOS App Development**
-
-- 👯 I’m looking for help in **Machine Learning Model for Text Recognition**
+- 💬 Ask me about **MERN Stackt**
 
 - 📫 How to reach me: **saarthaktuli@gmail.com**
 
